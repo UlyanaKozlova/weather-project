@@ -1,0 +1,14 @@
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\bin\Debug\net8.0\KozlovaProject2.exe
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\bin\Debug\net8.0\KozlovaProject2.deps.json
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\bin\Debug\net8.0\KozlovaProject2.runtimeconfig.json
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\bin\Debug\net8.0\KozlovaProject2.dll
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\bin\Debug\net8.0\KozlovaProject2.pdb
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\KozlovaProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\KozlovaProject2.AssemblyInfoInputs.cache
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\KozlovaProject2.AssemblyInfo.cs
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\KozlovaProject2.csproj.CoreCompileInputs.cache
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\KozlovaProject2.dll
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\refint\KozlovaProject2.dll
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\KozlovaProject2.pdb
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\KozlovaProject2.genruntimeconfig.cache
+C:\Users\Ульяна\Desktop\все\C#\KozlovaProject2\ConsoleApp2\KozlovaProject2\obj\Debug\net8.0\ref\KozlovaProject2.dll
